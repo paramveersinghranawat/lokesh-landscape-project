@@ -6,15 +6,11 @@ export const metadata = {
 };
 
 const PHOTOS = [
-  { title: 'Rajasthan 220kV Substation',  cat: 'Substations', img: 'https://images.unsplash.com/photo-1541888081622-632001eb7097?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Smart Meter Installation',    cat: 'Technology',  img: 'https://images.unsplash.com/photo-1498084393753-b411b2d26b34?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Solar Farm Integration',      cat: 'Renewables',  img: 'https://images.unsplash.com/photo-1466611653911-95081537e5b7?q=80&w=800&auto=format&fit=crop' },
-  { title: 'HV Transmission Tower',       cat: 'Network',     img: 'https://images.unsplash.com/photo-1422190441165-ec2956dc9ecc?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Control Room Operations',     cat: 'Operations',  img: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Rural Electrification Drive', cat: 'Community',   img: 'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Field Maintenance Crew',      cat: 'Operations',  img: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Urban Distribution Network',  cat: 'Network',     img: 'https://images.unsplash.com/photo-1531745526756-a3840885d4bc?q=80&w=800&auto=format&fit=crop' },
-  { title: 'Award Ceremony 2025',         cat: 'Events',      img: 'https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=800&auto=format&fit=crop' },
+  { title: 'Rajasthan 220kV Substation',  cat: 'Substations', img: '/images/news-page/news-2.webp' },
+  { title: 'Smart Meter Installation',    cat: 'Technology',  img: '/images/news-page/news-1.webp'  },
+  { title: 'Solar Farm Integration',      cat: 'Renewables',  img:  '/images/news-page/news-4.webp' },
+  { title: 'HV Transmission Tower',       cat: 'Network',     img: '/images/news-page/news-5.webp' },
+  { title: 'Control Room Operations',     cat: 'Operations',  img: '/images/news-page/news-2.webp' },
 ];
 
 export default function GalleryPage() {

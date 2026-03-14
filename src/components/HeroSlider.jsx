@@ -7,7 +7,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const slides = [
   {
     id: 1,
-    image: "images/home-page/img-1.webp",
+    image: "/images/home-page/img-1.webp",
     tag: "Power Distribution",
     headline: ["Energising", "Every Home &", "Business"],
     subheadline:
@@ -16,7 +16,7 @@ const slides = [
   },
   {
     id: 2,
-    image: "images/home-page/img-2.webp",
+    image: "/images/home-page/img-2.webp",
     tag: "Smart Infrastructure",
     headline: ["Advanced", "Distribution", "Networks"],
     subheadline:
@@ -25,7 +25,7 @@ const slides = [
   },
   {
     id: 3,
-    image: "images/home-page/img-3.webp",
+    image: "/images/home-page/img-3.webp",
     tag: "Sustainability",
     headline: ["Powering a", "Greener", "Tomorrow"],
     subheadline:

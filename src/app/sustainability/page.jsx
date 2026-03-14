@@ -96,7 +96,7 @@ export default function SustainabilityPage() {
         ══════════════════════════════════════════ */}
         <section className="relative overflow-hidden" style={{ minHeight: "82vh" }}>
           <div className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: "url('https://images.unsplash.com/photo-1466611653911-95081537e5b7?q=80&w=1800&auto=format&fit=crop')" }} />
+            style={{ backgroundImage: "url(images/enviroment-3-page/img-1.webp)" }} />
           <div className="absolute inset-0 bg-black/55" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
           <div className="absolute inset-0 bg-gradient-to-r from-orange-950/40 via-transparent to-transparent" />
@@ -304,7 +304,7 @@ export default function SustainabilityPage() {
                   <div className="absolute top-0 left-0 w-7 h-7 border-t-[3px] border-l-[3px] border-orange-500 z-10" />
                   <div className="absolute top-0 right-0 w-7 h-7 border-t-[3px] border-r-[3px] border-orange-500 z-10" />
                   <img
-                    src="https://images.unsplash.com/photo-1508193638397-1c4234db14d8?q=80&w=900&auto=format&fit=crop"
+                    src="images/enviroment-page/enviroment-1.webp"
                     alt="Solar field"
                     className="w-full object-cover"
                     style={{ height: "320px" }}

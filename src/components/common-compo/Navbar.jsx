@@ -20,6 +20,7 @@ const NAV_LINKS = [
     label: 'Expertise', href: '/expertise',
     dropdown: [
       { label: 'Engineering',        href: '/expertise/engineering' },
+     { label: 'Solar',        href: '/expertise/solar' },
       { label: 'Project Management', href: '/expertise/project-management' },
       { label: 'Technology',         href: '/expertise/technology' },
       { label: 'O&M Services',       href: '/expertise/om-services' },

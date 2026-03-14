@@ -33,7 +33,7 @@ export default function EngineeringPage() {
     <div>
       <section className="relative py-20 lg:py-28 overflow-hidden">
         <div className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=1600')" }} />
+          style={{ backgroundImage: "url('/images/expertise/expertise-2.webp')" }} />
         <div className="absolute inset-0 bg-black/65" />
         <div className="absolute inset-0 bg-gradient-to-r from-orange-950/55 via-transparent to-transparent" />
         <div className="absolute top-0 left-0 right-0 h-[3px] bg-gradient-to-r from-orange-800 via-orange-500 to-amber-400" />
@@ -88,7 +88,7 @@ export default function EngineeringPage() {
               <div className="absolute top-0 left-0 w-7 h-7 border-t-[3px] border-l-[3px] border-orange-500 z-20" />
               <div className="absolute top-0 right-0 w-7 h-7 border-t-[3px] border-r-[3px] border-orange-500 z-20" />
               <div className="rounded-2xl overflow-hidden" style={{ boxShadow: '0 20px 60px rgba(15,40,120,0.12)' }}>
-                <img src="https://images.unsplash.com/photo-1470790376778-a9fbc86d70e2?auto=format&fit=crop&q=80&w=900"
+                <img src="/images/expertise/expertise-1.webp"
                   alt="Engineering" className="w-full object-cover" style={{ height: '460px' }} />
                 <div className="absolute inset-0 bg-gradient-to-br from-orange-900/20 to-transparent rounded-2xl" />
               </div>

@@ -10,7 +10,7 @@ const news = [
     title: "New Distribution Substation Commissioned in Rajasthan",
     summary: "Lokesh Landscape's ₹290 Cr substation project in Jaipur district will improve power reliability for 4.5 lakh consumers and reduce outage time by 60%.",
     date: "Mar 05, 2026",
-    image: "https://images.unsplash.com/photo-1541888081622-632001eb7097?q=80&w=800&auto=format&fit=crop",
+    image: "images/news-page/news-1.webp",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const news = [
     title: "Solar Net Metering Programme Expands to 5 New States",
     summary: "Our net metering initiative now covers 15 states, enabling 200,000+ households to feed surplus solar energy into the distribution grid.",
     date: "Feb 18, 2026",
-    image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?q=80&w=800&auto=format&fit=crop",
+    image: "images/news-page/news-1.webp",
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const news = [
     title: "Smart Meter Rollout Completes for Delhi & NCR Region",
     summary: "Over 1.2 million advanced smart meters installed across Delhi-NCR, enabling real-time monitoring, automated billing, and faster fault detection.",
     date: "Feb 02, 2026",
-    image: "https://images.unsplash.com/photo-1498084393753-b411b2d26b34?q=80&w=800&auto=format&fit=crop",
+    image: "images/news-page/news-2.webp",
   },
 ];
 

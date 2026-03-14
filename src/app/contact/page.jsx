@@ -90,7 +90,7 @@ export default function ContactPage() {
         ══════════════════════════════════════════ */}
         <section className="relative overflow-hidden" style={{ minHeight: "52vh" }}>
           <div className="absolute inset-0 bg-cover bg-center"
-            style={{ backgroundImage: "url('https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1800&auto=format&fit=crop')" }} />
+            style={{ backgroundImage: "url(images/contact-page/hero-contact.webp)" }} />
           <div className="absolute inset-0 bg-black/60" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
           <div className="absolute inset-0 bg-gradient-to-r from-orange-950/50 via-transparent to-transparent" />
@@ -405,8 +405,7 @@ export default function ContactPage() {
         ══════════════════════════════════════════ */}
         <section className="bg-slate-100 border-b border-slate-200 relative" style={{ height: "380px" }}>
           <div className="absolute inset-0 bg-cover bg-center opacity-60"
-            style={{ backgroundImage: "url('https://images.unsplash.com/photo-1524661135-423995f22d0b?q=80&w=1800&auto=format&fit=crop')" }} />
-          <div className="absolute inset-0 bg-orange-950/50" />
+            style={{ backgroundImage: "url(images/contact-page/map-contact.webp)" }} />          <div className="absolute inset-0 bg-orange-950/50" />
           <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 z-10">
             <div className="flex items-center gap-3">
               <div className="h-px w-8 bg-orange-400" />

@@ -26,7 +26,7 @@ export default function LeadershipPage() {
       {/* ── Hero ── */}
       <section className="relative py-20 lg:py-28 overflow-hidden">
         <div className="absolute inset-0 bg-cover bg-center"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&q=80&w=1400')" }} />
+          style={{ backgroundImage: "url('/images/about-page/leadership.webp')" }} />
         <div className="absolute inset-0 bg-black/62" />
         <div className="absolute inset-0 bg-gradient-to-r from-orange-950/50 via-transparent to-transparent" />
         <div className="absolute top-0 left-0 right-0 h-[3px] bg-gradient-to-r from-orange-800 via-orange-500 to-amber-400" />

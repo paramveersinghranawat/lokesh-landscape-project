@@ -66,7 +66,8 @@ export default function AboutPage() {
 
         {/* ── Hero ── */}
         <section className="relative py-20 lg:py-28 overflow-hidden">
-          <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=1400')" }} />
+          <div className="absolute inset-0 bg-cover bg-center"
+           style={{ backgroundImage: "url(images/about-page/about-2.webp)" }} />
           <div className="absolute inset-0 bg-black/60" />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
           <div className="absolute top-0 left-0 right-0 h-[3px] bg-gradient-to-r from-orange-800 via-orange-500 to-amber-400" />
@@ -116,7 +117,7 @@ export default function AboutPage() {
               <div className="relative">
                 <div className="aspect-[4/3] rounded-2xl overflow-hidden shadow-[0_20px_60px_rgba(15,40,120,0.12)]">
                   <img
-                    src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&q=80&w=900"
+                    src="images/about-page/about.webp"
                     alt="Lokesh Landscape control room"
                     className="w-full h-full object-cover"
                   />
